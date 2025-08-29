@@ -11,7 +11,7 @@ Ramora is a hobbyist operating system built from scratch, designed with a unique
 
 Custom Memory Management – Track memory in sectors and blocks, giving you fine-grained control. (**WIP!! Certainly a strange approach I chose but eh I'll still do it**)
 
-Inode filesystem – Inspired by Unix inodes for a flexible, persistent file system design. (Also WIP lol)
+Vault Inode filesystem (vlt1) – Inspired by Unix inodes for a flexible, persistent file system design. (Also WIP lol)
 
 Bare-Metal Friendly – Designed for direct hardware access and experimentation.
 
